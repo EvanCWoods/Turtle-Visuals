@@ -1,0 +1,7 @@
+Demonstration of the Turtle library and functions involving angles
+
+todo:
+- stop overlap of shapes
+- add interaction in terminal for expirimentation
+- add randomness to color
+- add randomness to shapes

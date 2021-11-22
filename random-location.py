@@ -1,7 +1,6 @@
 # Imports:
 from turtle import  *
 import random
-import numpy as np
 
 # Global variables
 t = Turtle()

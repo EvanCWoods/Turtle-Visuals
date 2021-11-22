@@ -5,3 +5,5 @@ todo:
 - add interaction in terminal for expirimentation
 - add randomness to color
 - add randomness to shapes
+
+- Fix the position search to stop overlap
